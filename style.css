@@ -1,0 +1,14 @@
+body {
+    background: rgb(5, 63, 82);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: linear-gradient(90deg, green 40%, p);
+}
+h1 {
+    color: rgb(6, 255, 72);
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+}
+img {
+    width: 40%;
+}
